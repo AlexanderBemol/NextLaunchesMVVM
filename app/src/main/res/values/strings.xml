@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Next Launches</string>
+
+    <string name="icons_creator">Planets Vectors by Vecteezy</string>
+    <string name="icons_creator_link">https://www.vecteezy.com/free-vector/planets</string>
+
+    <!-- Splash Screen-->
+    <string name="splash_icon_description">Rocket Icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
